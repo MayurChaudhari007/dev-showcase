@@ -50,7 +50,7 @@ const projectData = [
     description:
       "A full-stack healthcare web application built with Flask, Machine Learning, and Google Gemini AI. The platform predicts diseases using an SVM model trained on a medical dataset and also provides AI-powered disease analysis, chatbot consultations, downloadable medical reports, and secure report history for authenticated users.",
 
-    category: "AI / Machine Learning",
+    category: "AI",
 
     featured: true,
 
@@ -106,7 +106,7 @@ const projectData = [
     description:
       "A full-stack AI learning platform that enables students to upload PDFs, ask intelligent questions, generate flashcards, create summaries, and perform semantic search using Retrieval-Augmented Generation (RAG). Built with React, Node.js, Python, ChromaDB, MongoDB Atlas, Cloudinary, and Google Gemini to deliver a personalized knowledge base and AI-powered study assistant.",
 
-    category: "AI / RAG",
+    category: "AI",
 
     featured: true,
 
@@ -163,7 +163,7 @@ const projectData = [
     description:
       "A high-end Marvel-inspired interactive web experience designed to deliver a cinematic journey through the Marvel universe. Built with React, TypeScript, Three.js, React Three Fiber, GSAP, Framer Motion, and Lenis, the project combines immersive 3D scenes, smooth scrolling, dynamic lighting, cinematic galleries, and premium UI/UX to create an Awwwards-style experience optimized for performance and responsiveness.",
 
-    category: "3D Experience",
+    category: "Web App",
 
     featured: true,
 
@@ -221,7 +221,7 @@ const projectData = [
     description:
       "DevVerse is a large-scale Single Page Application (SPA) built entirely with Vanilla JavaScript, HTML5, and CSS3. It showcases 60 handcrafted interactive experiments covering computer science, mathematics, digital art, browser APIs, and game development. Every rendering engine, animation loop, physics simulation, and algorithm visualization was developed from scratch without using frontend frameworks, demonstrating deep knowledge of browser technologies and modern JavaScript.",
 
-    category: "JavaScript",
+    category: "Web App",
 
     featured: true,
 
